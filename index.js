@@ -316,6 +316,8 @@ let styles = StyleSheet.create({
 		marginTop: 10,
 		justifyContent: 'center',
 		alignItems: 'center',
+    paddingLeft: 5,
+    paddingRight: 5,
 	},
 	tipContent: {
 		fontSize: 16,
