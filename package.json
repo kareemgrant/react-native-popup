@@ -19,7 +19,11 @@
     "email": "rsk_rsk@163.com"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=5"
+  },
+  "peerDependencies": {
+    "react": ">=0.14.5",
+    "react-native": ">=0.25.1"
   },
   "license": "ISC",
   "bugs": {
