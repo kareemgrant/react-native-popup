@@ -1,7 +1,7 @@
 'use strict';
 import React from 'react';
 
-import React, {
+import {
   StyleSheet,
   PropTypes,
   View,
