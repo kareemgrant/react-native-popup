@@ -308,9 +308,11 @@ let styles = StyleSheet.create({
     marginTop: 10,
     justifyContent: 'center',
     alignItems: 'center',
+    paddingLeft: 10,
+    paddingRight: 10,
   },
   tipContent: {
-    fontSize: 16,
+    fontSize: 14,
     marginBottom: 5,
     textAlign: 'center',
   },
@@ -360,7 +362,7 @@ if(Platform.OS === 'ios'){
       textAlign: 'center',
     },
     tipContent: {
-      fontSize: 16,
+      fontSize: 14,
       marginTop: 3,
       marginBottom: 7,
       textAlign: 'center',
